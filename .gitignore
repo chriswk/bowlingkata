@@ -5,3 +5,4 @@ project/boot
 *.ipr
 *.iws
 *~
+.history
